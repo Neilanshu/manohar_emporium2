@@ -1,0 +1,7 @@
+pywhatkit
+fastapi
+datetime
+tortoise-orm 
+time
+uvicorn
+pydantic
